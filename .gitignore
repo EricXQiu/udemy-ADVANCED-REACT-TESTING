@@ -1,1 +1,4 @@
 .DS_Store
+
+base-app/client/.idea
+base-app/server/.idea
